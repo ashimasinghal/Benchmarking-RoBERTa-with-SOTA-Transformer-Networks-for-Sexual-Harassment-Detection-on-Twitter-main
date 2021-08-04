@@ -1,0 +1,2 @@
+This project is a detailed benchmark comparison of state-of-the-art transformer networks namely - BERT,  RoBERTa, DistilBERT, ALBERT, XLNet, ERNIE, Longformer and ELECTRA  for detection of sexual harassment on Twitter data. Also benchmarked the same for Sarcastic news headlines classification where RoBERTa outperformed all the architectures with accuracies of 83.63% and 90% on the respective datasets. 
+A detailed study was carried out on the comparative performances during the training process and overall evaluation was conducted and documented.
